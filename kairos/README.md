@@ -13,7 +13,7 @@ On a 12-second chain the price barely moves during a 3-minute demo. On Monad the
 
 | Item | Value |
 |------|--------|
-| **Live page** | `https://YOUR_HOST/` |
+| **Live page** | `kairos.ing.ng` |
 | **Contract (Monad Testnet)** | `0xCa5e28BD31295C541B5816e055f3ee3b417867b3` |
 | **Explorer** | `https://testnet.monadexplorer.com/address/0xCa5e28BD31295C541B5816e055f3ee3b417867b3` |
 | **Chain ID** | `10143` |
